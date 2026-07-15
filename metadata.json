@@ -1,0 +1,6 @@
+{
+  "name": "Stream Detector - MV3 Extension Builder",
+  "description": "An interactive development hub and code generator for a Manifest V3 Chrome Extension that intercepts and logs streaming media URLs like .m3u, .m3u8, and custom backend stream APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
